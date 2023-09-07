@@ -1,0 +1,60 @@
+{
+  "employees": [
+    {
+      "firstname": "Isaac",
+      "lastname": "Anasonye",
+      "email": "isaaconyes80@gmail.com",
+      "country": "Nigeria",
+      "id": 1
+    },
+    {
+      "firstname": "Mary",
+      "lastname": "Rab",
+      "email": "mary@gmai.com",
+      "country": "Uk",
+      "id": 2
+    },
+    {
+      "firstname": "Judel",
+      "lastname": "Agba",
+      "email": "isaaconyes80@gmail.com",
+      "country": "South Africa",
+      "id": 6
+    },
+    {
+      "firstname": "Joseph",
+      "lastname": "Mike",
+      "email": "joseph@gmail.com",
+      "country": "England",
+      "id": 7
+    },
+    {
+      "firstname": "Anthony",
+      "lastname": "Emmanuel",
+      "email": "emmanuel@gmail.com",
+      "country": "Germany",
+      "id": 9
+    },
+    {
+      "id": 10,
+      "firstname": "Samson",
+      "lastname": "Jupa",
+      "email": "jupa@gmail.com",
+      "country": "India"
+    },
+    {
+      "id": 11,
+      "firstname": "James",
+      "lastname": "Ruba",
+      "email": "ruba@gmail.com",
+      "country": "Canada"
+    },
+    {
+      "id": 12,
+      "firstname": "Amy",
+      "lastname": "Jones",
+      "email": "amy@gmail.com",
+      "country": "London"
+    }
+  ]
+}
